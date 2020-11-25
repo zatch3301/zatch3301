@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="http://www.hackthebox.eu/badge/image/346677" alt="Hack The Box">
 <!--
 **zatch3301/zatch3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
