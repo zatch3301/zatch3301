@@ -1,7 +1,9 @@
 ### Hi there 👋
 <img src="http://www.hackthebox.eu/badge/image/346677" alt="Hack The Box">
 
-[![Gagan Verma's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/zatch3301)
+<a href="https://dev.to/zatch3301">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gagan Verma's DEV Profile" height="30" width="30">
+</a>
 <!--
 **zatch3301/zatch3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
